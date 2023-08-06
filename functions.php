@@ -10,7 +10,7 @@
       echo strlen("my name is dileeban")."<br>";
       echo str_word_count("dileeban dilu suresh")."<br>";
       echo strrev("dileeban")."<br>";
-      echo strpos("my name is kuarnas","dilu")."<br>";
+      echo strpos("my name is knas","dilu")."<br>";
       echo sin(90)."<br>";
       echo cos(90)."<br>";
       echo mail("dileebandileeban2001@gmail.com","testing","this is a experiment");

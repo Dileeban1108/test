@@ -7,8 +7,8 @@
 </head>
 <body>
     <?php
-      echo strlen("dileeban")."<br>";
-      echo str_word_count("dileeban dilu kawsh")."<br>";
+      echo strlen("my name is dileeban")."<br>";
+      echo str_word_count("dileeban dilu suresh")."<br>";
       echo strrev("dileeban")."<br>";
       echo strpos("my name is dileeban","dilu")."<br>";
       echo sin(90)."<br>";
